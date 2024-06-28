@@ -42,14 +42,17 @@ conda activate virtual-try-on
 ```
 pip install -e .
 ```
+
+## Results
+
+![virtual_try_on_outfit_change\images\Results.png](https://github.com/utkarshpophli/virtual-try-on-outfit-change/blob/main/images/Results.png?raw=true)
+
 ## Usage
 Run the Streamlit app:
 ```
 streamlit run app.py
 ```
-## Results
 
-![virtual_try_on_outfit_change\images\Results.png](https://github.com/utkarshpophli/virtual-try-on-outfit-change/blob/main/images/Results.png?raw=true)
 
 
 ## License
