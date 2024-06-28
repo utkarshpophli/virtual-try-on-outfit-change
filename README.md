@@ -49,7 +49,7 @@ streamlit run app.py
 ```
 ## Results
 
-![Result](virtual_try_on_outfit_change\images\Results.png)
+![virtual_try_on_outfit_change\images\Results.png](https://github.com/utkarshpophli/virtual-try-on-outfit-change/blob/main/images/Results.png?raw=true)
 
 
 ## License
