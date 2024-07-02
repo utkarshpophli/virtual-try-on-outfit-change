@@ -1,7 +1,13 @@
 
 # Virtual Try-On System
 
-A virtual try-on system using inpainting techniques that allows users to upload a photo of a person and an image of clothing to generate a virtual try-on of the person wearing the clothes.
+This project presents a virtual try-on system that uses inpainting techniques to generate realistic images of users wearing selected clothing items. Users can upload a photo of themselves and an image of a clothing item, and the system will produce a composite image showing the user wearing the selected clothing.
+
+### Key features:
+
+* Easy upload of user photos and clothing images
+* Advanced inpainting for realistic clothing integration
+* Quick generation of virtual try-on results
 
 
 ## Directory Structure
@@ -53,6 +59,12 @@ Run the Streamlit app:
 streamlit run app.py
 ```
 
+## How to Use
+
+1. Upload a photo of a person.
+2. Upload an image of the clothing item you want to try on.
+3. The system will process the images and generate a virtual try-on result.
+4. View the output image showing the person wearing the selected clothing.
 
 
 ## License
