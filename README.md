@@ -9,6 +9,7 @@ This project presents a virtual try-on system that uses inpainting techniques to
 * Advanced inpainting for realistic clothing integration
 * Quick generation of virtual try-on results
 
+Try out the live demo [here](https://huggingface.co/spaces/utkarshpophli/virtual-try-on-outfit-change) to experience the virtual try-on system in action!
 
 ## Directory Structure
 
